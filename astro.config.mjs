@@ -13,10 +13,10 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guild',
+					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'Example Guide', link: '/documentation-backend/guides/example/' },
 					],
 				},
 				{
